@@ -1,0 +1,9 @@
+{
+  "Api": {
+    "Host": "https://reqres.in/",
+    "UsersApi": "api/users/",
+    "ResourceApi": "api/unknown/",
+    "RegistrationApi": "api/register/",
+    "AuthenticationApi": "api/login/"
+  }
+}
